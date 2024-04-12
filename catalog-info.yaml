@@ -4,6 +4,7 @@ metadata:
   name: react-app1
   annotations:
     github.com/project-slug: imprem/react-app1
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: unknown
