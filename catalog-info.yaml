@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: imprem/react-app1
 spec:
-  type: other
+  type: website
   lifecycle: unknown
   owner: premchand
