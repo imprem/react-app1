@@ -13,3 +13,4 @@ spec:
   consumesApis: 
     - 'component:weather-app' 
     - 'component:tokenBalance-app'
+    - 'component:poductDetails-app'
