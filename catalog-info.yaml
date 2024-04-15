@@ -10,4 +10,6 @@ spec:
   lifecycle: unknown
   owner: guests
   system: test-app
-  consumesApis: ['component:weather-app', 'component:tokenBalance-app']
+  consumesApis: 
+    - 'component:weather-app' 
+    - 'component:tokenBalance-app'
