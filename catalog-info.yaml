@@ -9,4 +9,4 @@ spec:
   type: website
   lifecycle: unknown
   owner: guests
-  apiConsumedBy: ['component:demo-pr1']
+  system: test-app
