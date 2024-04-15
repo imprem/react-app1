@@ -9,3 +9,4 @@ spec:
   type: website
   lifecycle: unknown
   owner: premchand
+  apiConsumedBy: ['component:demo-pr1']
