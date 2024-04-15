@@ -8,5 +8,5 @@ metadata:
 spec:
   type: website
   lifecycle: unknown
-  owner: user:guest
+  owner: user:guests
   apiConsumedBy: ['component:demo-pr1']
